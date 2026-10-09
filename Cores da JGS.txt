@@ -1,0 +1,13 @@
+Cores da JGS
+
+Proficiência
+
+  --color-primary: #529927;
+  --color-primary-dark: #176326;
+  --color-primary-light: #70B82D;
+
+Metrologia
+
+  --color-primary: #104dcf;
+  --color-primary-dark: #0D47A1;
+  --color-primary-light: #166ae9;

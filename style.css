@@ -334,7 +334,7 @@ a:hover {
   background:
     linear-gradient(rgba(20, 30, 50, 0.68),
       rgba(20, 30, 50, 0.68)),
-    url("https://jgsmetrologia.com.br/wp-content/uploads/2025/05/bg2.jpg") center / cover no-repeat;
+    url("./assets/imagens/bg2.jpg") center / cover no-repeat;
 
   color: #fff;
 
@@ -429,7 +429,7 @@ a:hover {
 
 .cta-band {
   background:
-    var(--color-primary-dark) url("https://jgsmetrologia.com.br/wp-content/uploads/2025/05/b2-1.jpg") center / cover;
+    var(--color-primary-dark) url("./assets/imagens/b2-1.jpg") center / cover;
 
   background-blend-mode: multiply;
 
@@ -1297,7 +1297,7 @@ summary:focus-visible {
   padding: 80px 24px;
   background:
     linear-gradient(90deg, rgba(8, 30, 62, 0.93) 0%, rgba(13, 49, 96, 0.78) 48%, rgba(13, 49, 96, 0.34) 100%),
-    url("https://jgsmetrologia.com.br/wp-content/uploads/2025/05/bg2.jpg") center / cover no-repeat;
+    url("./assets/imagens/bg2.jpg") center / cover no-repeat;
 }
 
 .hero::after {
@@ -1505,7 +1505,7 @@ summary:focus-visible {
   padding: 84px 24px;
   background:
     linear-gradient(120deg, rgba(11, 43, 88, 0.96), rgba(20, 86, 184, 0.88)),
-    url("https://jgsmetrologia.com.br/wp-content/uploads/2025/05/b2-1.jpg") center / cover no-repeat;
+    url("./assets/imagens/b2-1.jpg") center / cover no-repeat;
 }
 
 .cta-inner {
@@ -1649,10 +1649,8 @@ summary:focus-visible {
 }
 
 .footer-logo {
-  width: 125px;
-  padding: 7px;
-  border-radius: 10px;
-  background: #fff;
+  width: 145px;
+  background: transparent;
 }
 
 .footer-brand p,
